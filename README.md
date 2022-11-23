@@ -7,3 +7,5 @@ Project idea: https://docs.google.com/document/d/13zVDO7guQnTG8TOBH-80zpnT6QS_Y7
 Contact info:
 
 Renhao Luo: renhao_luo@hms.harvard.edu
+
+Ziqi Wang: ziqiwang@hms.harvard.edu
