@@ -1,0 +1,6 @@
+SHAP value for explaining the predictor importance
+
+    - link: https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html
+    (this could be applied to linear/logistic regression model, and non-additive boosted tree logistic regression model)
+
+
